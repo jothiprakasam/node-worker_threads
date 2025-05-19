@@ -7,7 +7,6 @@ here is the code from **heavytask.js**
 ```
 let c = 0;
 for (let i = 0; i < 1e10; i++) c += i;
-
 ```
 You can change it later.
 
@@ -36,10 +35,4 @@ Hope you like it .
 Thank You
 
 Jothi Prakasam Ramesh 
-Sri sairam Institute of technollogy.
-
-
-
-
-
-```
+Sri sairam Institute of technology.
